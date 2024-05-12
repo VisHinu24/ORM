@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 07/03/2024
+## Date: 11/03/2024
 ## Name : H Vishinu 
 ## Reg.No : 212223220124
 ## AIM
